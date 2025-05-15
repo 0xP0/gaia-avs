@@ -3,7 +3,7 @@
   "website": "https://www.gaianet.ai",
   "description": "A living network where knowledge evolves. Gaia is building an decentralized ecosystem to support AI applications that learn, improve, and grow over time.",
   "logo": "https://www.gaianet.ai/images/domain-default-avatar.png",
-  "twitter": "https://x.com/Gaianet_AI"
+  "twitter": "https://x.com/Gaianet_AI",
   "operatorSets": [
         {
             "name": "ETH Set",
