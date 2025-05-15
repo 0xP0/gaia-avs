@@ -1,7 +1,7 @@
 {
   "name": "gaia",
-  "website": "https://www.example.com",
+  "website": "https://www.gaianet.ai",
   "description": "A living network where knowledge evolves. Gaia is building an decentralized ecosystem to support AI applications that learn, improve, and grow over time.",
-  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
+  "logo": "https://st.gaianet.ai/images/domain-default-avatar.png",
   "twitter": "https://x.com/Gaianet_AI"
 }
