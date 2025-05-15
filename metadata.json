@@ -1,7 +1,46 @@
 {
-"name": "gaia",
-"website": "https://www.gaianet.ai",
-"description": "A living network where knowledge evolves. Gaia is building an decentralized ecosystem to support AI applications that learn, improve, and grow over time.",
-"logo": "https://www.gaianet.ai/images/domain-default-avatar.png",
-"twitter": "https://x.com/Gaianet_AI"
+  "name": "gaia",
+  "website": "https://www.gaianet.ai",
+  "description": "A living network where knowledge evolves. Gaia is building an decentralized ecosystem to support AI applications that learn, improve, and grow over time.",
+  "logo": "https://www.gaianet.ai/images/domain-default-avatar.png",
+  "twitter": "https://x.com/Gaianet_AI"
+  "operatorSets": [
+        {
+            "name": "ETH Set",
+            "id": "1", 
+            "description": "The ETH operatorSet for AVS",
+            "software": [
+                {
+                    "name": "NetworkMonitor",
+                    "description": "",
+                    "url": "https://link-to-binary-or-github.com"
+                },
+                {
+                    "name": "ValidatorClient",
+                    "description": "",
+                    "url": "https://link-to-binary-or-github.com"
+                }
+            ],
+            "slashingConditions": ["Condition A", "Condition B"]
+        },
+        {
+            "name": "EIGEN Set",
+            "id": "2", 
+            "description": "The EIGEN operatorSet for AVS",
+            "software": [
+                {
+                    "name": "NetworkMonitor",
+                    "description": "",
+                    "url": "https://link-to-binary-or-github.com"
+                },
+                {
+                    "name": "ValidatorClient",
+                    "description": "",
+                    "url": "https://link-to-binary-or-github.com"
+                }
+            ],
+            "slashingConditions": ["Condition A", "Condition B"]
+        }
+    ]
+
 }
